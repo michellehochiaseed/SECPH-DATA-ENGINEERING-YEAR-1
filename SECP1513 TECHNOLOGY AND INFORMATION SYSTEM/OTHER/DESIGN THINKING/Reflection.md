@@ -1,1 +1,12 @@
+a. What is your goal/dream with regard to your course/program?
+
+b. How does this design thinking impact on your goal/dream with regard to your program?
+
+c. What is the action/improvement/plan necessary for you to improve your potential in the industry?
+
+a. I’m good at following steps and working in a structured way. If there’s a clear process, I can do things very well, but I’m not very strong in creativity. I chose Data Engineering course because I enjoy the sense of accomplishment that comes from following steps to build a working program from scratch. However, this course isn’t just about following steps—some parts require thinking out of the box to complete, which helps to develop my creative thinking to some extent. Back to the question, my goal is to become someone who is both strong in logical thinking and creative problem-solving, not only in school or at work, but also in my everyday life, helping me make thoughtful decisions, and find innovative solutions to everyday problems.
+
+b. In this design thinking task, my groupmates and I had to think creatively to design an innovative app that is needed by the public but not yet widely implemented. We followed the methodical steps of the design thinking process: empathize, define, ideate, prototype, and test. Each stage required careful planning and problem-solving, but also challenged us to think out of the box. For example, while designing the interface of the laundry tracking app, we combined logical thinking with creativity to make it user-friendly and visually appealing. There is no doubt that this is a great opportunity for me to grow in both areas.
+
+c. The most important quality and skill that I need to acquire is undoubtedly programming skill, as I need to build a strong foundation that will enable me to turn my ideas into reality. I aim to learn at least three programming languages before starting my internship, as this will give me confidence to tackle real-world projects. To achieve this, I have already taken steps by signing up for an upcoming C++ workshop organized by PERSAKA. I also plan to participate in more programming-related events and workshops in the future to continuously improve my skills. In addition to programming, I also want to improve both my logical thinking and creativity. To achieve this, I will treat every coursework and assignment, no matter how small, as an opportunity to learn and grow. By taking every task seriously, I believe I can learn something valuable from each experience.
 
